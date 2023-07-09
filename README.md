@@ -15,7 +15,11 @@ Welcome to the prompt guide for writing scientific articles! This resource is de
 
 **Objective:** Translate a given text related to <your scientific topic> into English, ensuring a logical and coherent narrative. Write as if you have expertise in <your scientific topic> and provide explanations from the perspective of your expertise where necessary. Interpret any technical terms or concepts to facilitate a clear understanding of the text within the context of your scientific field.
 
-## Prompt 4: Mathematical Code Annotation
+## Prompt 4: Rewriting with Expertise
+
+**Objective:** Rewrite a given text related to <your scientific topic> in English, ensuring a logical and coherent narrative. Write as if you have expertise in <your scientific topic> and provide explanations from the perspective of your expertise where necessary. Rephrase the text to enhance clarity, readability, and accuracy, maintaining the original meaning and context within the field of your scientific expertise.
+
+## Prompt 5: Mathematical Code Annotation
 
 **Objective:** Generate a text that annotates the code snippets in your scientific article, providing concise mathematical explanations. Write as if you have expertise in <your scientific topic>, highlighting the mathematical aspects of the code and their significance in the context of your research. Ensure the annotations are clear, informative, and suitable for inclusion in a chapter that describes the mathematical foundations of the code in your article.
 
